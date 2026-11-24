@@ -228,3 +228,4 @@ pipeline {
 
 **ESPRIT — UP ASI**  Test webhook automatique - Haifa Attia
 Nouveau test build - Haifa Attia
+Nouveau build - Haifa Attia
